@@ -1,0 +1,6 @@
+[submodule "src/thirdparts/rapidjson"]
+	path = src/thirdparts/rapidjson
+	url = git@github.com:miloyip/rapidjson.git
+[submodule "src/thirdparts/lua"]
+	path = src/thirdparts/lua
+	url = git@github.com:LuaDist/lua.git
